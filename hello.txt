@@ -1,8 +1,0 @@
-hello git! 2222222222222222222
-
-<<<<<<< HEAD
-dhasjkdhajsda
-=======
-安吉斯的话 hehk
->>>>>>> hot-fix
-话还是大户等哈速度
